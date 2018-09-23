@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Cam",
+	"category" : "PharoHomeAutomation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WebCam",
+	"type" : "normal"
+}

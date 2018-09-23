@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "Christophe Vaugelade 8/10/2018 08:11",
+	"super" : "ComposableModel",
+	"category" : "PharoHomeAutomation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"buttonReboot",
+		"labelStatus"
+	],
+	"name" : "GuiCalcEngine",
+	"type" : "normal"
+}

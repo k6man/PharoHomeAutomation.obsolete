@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposableModel",
+	"category" : "PharoHomeAutomation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"labelStatus",
+		"buttonWifiOn",
+		"buttonWifiOff"
+	],
+	"name" : "WifiApWidget",
+	"type" : "normal"
+}

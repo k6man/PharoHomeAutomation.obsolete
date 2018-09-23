@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "Christophe Vaugelade 8/14/2018 10:11",
+	"super" : "ComposableModel",
+	"category" : "PharoHomeAutomation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"wifiApList",
+		"camList",
+		"labelStatus"
+	],
+	"name" : "PharoHomeAutomation",
+	"type" : "normal"
+}
