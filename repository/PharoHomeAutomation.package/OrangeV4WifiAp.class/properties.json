@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "ChristopheVaugelade 10/22/2018 23:33",
+	"super" : "WifiAp",
+	"category" : "PharoHomeAutomation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OrangeV4WifiAp",
+	"type" : "normal"
+}
